@@ -1,7 +1,5 @@
 ### Hi there I'm Riley👋
 
-**Riley142/riley142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 😄 Pronouns: she/her 
 - 📫 How to reach me: https://twitter.com/Rileyx142
 - 🌱 I'm currently learning JavaScript (at CodeNation) &  Java
