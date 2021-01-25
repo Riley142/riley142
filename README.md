@@ -1,6 +1,5 @@
 ### Hi there I'm Riley👋
 
-<!--
 **Riley142/riley142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 😄 Pronouns: she/her 
@@ -13,4 +12,3 @@
   - 🛹 ⛸️ 🚲  I Love to skate ✨
   - ⌨️ I can type pretty fast!
   ![Typing gif](keyb.gif)
--->
