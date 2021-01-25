@@ -7,8 +7,6 @@
 - 📫 How to reach me: https://twitter.com/Rileyx142
 - 🌱 I'm currently learning JavaScript (at CodeNation) &  Java
 - 🔭 I'm currently working on: blog using Gatsby JS & Netlify - well I'm juust about to start 🙃
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
 
 - ⚡ Fun facts: 
   - 🔨 I do woodworking and made my own desk, portable wall on wheels and few other things ✨
