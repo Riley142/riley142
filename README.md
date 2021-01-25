@@ -10,7 +10,6 @@
 - 👯 I'm looking to collaborate on ...
 - 🤔 I'm looking for help with ...
 
-
 - ⚡ Fun facts: 
   - 🔨 I do woodworking and made my own desk, portable wall on wheels and few other things ✨
   - 🛹 ⛸️ 🚲  I Love to skate ✨
