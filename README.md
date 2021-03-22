@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: she/her 
 - 📫 How to reach me: https://twitter.com/Rileyx142
-- 🌱 I'm currently learning: Java
+- 🌱 I'm currently learning: Java + rxJava 3
 - 🔭 I'm currently working on: blog using Gatsby JS & Netlify - well I'm juust about to start 🙃
 
 - ⚡ Fun facts: 
