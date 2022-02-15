@@ -1,4 +1,4 @@
-### **Hi there, I'm Riley 👋**
+### **Hi there, I'm Riley** 👋
 ### 👩‍💻 Junior Software Developer at Albeego
 ### 👩‍🎓 CodeNation master bootcamp Graduate
 
