@@ -1,7 +1,6 @@
-## Hi there, I'm Riley 👋
+### **Hi there, I'm Riley 👋**
 ### 👩‍💻 Junior Software Developer at Albeego
 ### 👩‍🎓 CodeNation master bootcamp Graduate
-<br>
 
 - 😄 Pronouns: she/her 
 - 📫 How to reach me:
@@ -16,9 +15,8 @@
   - 👩‍🔧 I've built my own Mechanical Keyboard ⌨️
 
 
-<br>
 
-###  🛠  Technologies
+###  🛠  **Technologies**
 
 
 &nbsp;
@@ -32,7 +30,6 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" alt="InfluxDB logo" title="InfluxDB" height="25" />][tech_anchor]
 
-<br>
 
 &nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript logo" title="JavaScript" height="25" />][tech_anchor]
@@ -46,19 +43,15 @@
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" />][tech_anchor]
 
 
-<br>
-
-### 📖  What I'm currently learning 
+### 📖 **What I'm currently learning**
 
 &nbsp;
 [<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql logo" title="MySql" height="25" />][tech_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native logo" title="React Native" height="25" />][tech_anchor]
-&nbsp;
 
-<br>
 
-### 👾  What I'm interested in learning in the future
+### 👾 **What I'm interested in learning in the future**
 &nbsp;
 [<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# logo" title="C#" height="25" />][tech_anchor]
 &nbsp;
@@ -66,8 +59,6 @@
 
 [tech_anchor]: #technologies
 
-<br>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=riley142&count_private=true&theme=midnight-purple&showicons=true)]()
-<!-- 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=riley142&count_private=true&langs_count=8&layout=compact&theme=midnight-purple)]() -->
+<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=riley142&count_private=true&langs_count=8&layout=compact&theme=midnight-purple)]() -->
