@@ -1,5 +1,5 @@
 ### **Hi there, I'm Riley** 👋
-#### 👩‍💻 Junior Software Developer at Albeego
+#### 👩‍💻 Early careers Developer at Auto Trader
 #### 👩‍🎓 CodeNation master bootcamp Graduate
 
 - 😄 Pronouns: she/her 
@@ -41,23 +41,3 @@
 [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" />][tech_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" />][tech_anchor]
-
-
-#### 📖 **What I'm currently learning**
-&nbsp;
-[<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# logo" title="C#" height="25" />][tech_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" alt="C# logo" title="C#" height="25" />][tech_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql logo" title="MySql" height="25" />][tech_anchor]
-
-
-#### 👾 **What I'm interested in learning in the future**
-&nbsp;
-[<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux logo" title="Kali Linux" height="25" />][tech_anchor]
-
-[tech_anchor]: #technologies
-
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=riley142&count_private=true&theme=midnight-purple&showicons=true)]()
-<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=riley142&count_private=true&langs_count=8&layout=compact&theme=midnight-purple)]() -->
